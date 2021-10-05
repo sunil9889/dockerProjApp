@@ -1,4 +1,4 @@
-## Deploy the nodejs application manually
+## Deploy the nodejs application manually #edit from local feature branch
 Clone the repository and build a docker image from it using following commands. This assumes that you're using an Ubuntu operating system.
 
 ```
